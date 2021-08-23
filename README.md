@@ -1,6 +1,6 @@
 ## sportiellomike.github.io 
 
-I am an MD/PhD student interested in T cell memory and bioinformatics. Feel free to contact me at sportiellomike@gmail.com for further communication.
+I am an MD/PhD student interested in T cell memory and bioinformatics in the lab of [Dave Topham](https://www.urmc.rochester.edu/labs/topham.aspx) at the University of Rochester. Feel free to contact me at sportiellomike@gmail.com for further communication.
 
 ## Publications
 * [CD49a Identifies Polyfunctional Memory CD8 T cell Subsets that Persist in the Lungs after Influenza Infection](https://doi.org/10.1101/2021.07.30.454373). [Github repo](https://github.com/sportiellomike/Frontiers-in-Immunology-2021)
